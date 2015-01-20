@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewBeispiel</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="point">Punkt</string>
+    <string name="example">Beispiel</string>
+    <string name="triple_icon_description">Triple Icon</string>
+    <string name="triple_user_name_placeholder">Benutzer</string>
+    <string name="triple_status_placeholder">Status</string>
+    <string name="triple_contact_placeholder">Kontakt</string>
+
+</resources>
