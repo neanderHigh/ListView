@@ -6,6 +6,7 @@ This Programming example covers the following topics:
 * Custom ArrayAdapter
 * ViewHolder Pattern
 
+Description:
 This is a small Android Application which shows a ListView example.
 Each ListView may consist of any number of View- or ViewGroup Items. In our example we use a custom ViewGroup.
 It is defined in the file row_layout_triple.xml.
