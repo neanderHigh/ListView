@@ -2,9 +2,9 @@
 
 This Programming example covers the following topics:
 * ListView
-* Custom ListView Item
-* Custom ArrayAdapter
-* ViewHolder Pattern
+* Custom ListView Item (dedicated layout xml-file)
+* Custom ArrayAdapter (separate class file)
+* ViewHolder Pattern (within the ArrayAdapter)
 
 Description:
 
