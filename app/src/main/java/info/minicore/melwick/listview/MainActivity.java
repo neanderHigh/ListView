@@ -12,6 +12,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 
+// This is the entry point
 public class MainActivity extends ActionBarActivity {
 
     @Override
